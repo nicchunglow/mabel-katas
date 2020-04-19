@@ -1,0 +1,24 @@
+{
+  "name": "mabel-katas",
+  "version": "1.0.0",
+  "description": "Check README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicchunglow/mabel-katas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicchunglow/mabel-katas/issues"
+  },
+  "homepage": "https://github.com/nicchunglow/mabel-katas#readme"
+}
