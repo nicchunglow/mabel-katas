@@ -12,8 +12,8 @@ const sunsetCheck = (buildings) => {
       currentHighestLevel[0] = westFirstBuildings[i];
     }
   }
-  return sunsetBuildings;
+  return sunsetBuildings.reverse();
 };
 module.exports = sunsetCheck;
 
-console.log(sunsetCheck([12, 29, 20, 28, 20]));
+// console.log(sunsetCheck([12, 29, 20, 28, 20]));
